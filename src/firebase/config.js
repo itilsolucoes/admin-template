@@ -1,4 +1,5 @@
 import firebase from "firebase/app"
+//import 'firebase/app/dist/index.cjs.js'
 import 'firebase/auth'
 
 if (!firebase.apps.length) {
